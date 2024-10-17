@@ -41,11 +41,6 @@ for line in lines:
 
 print("[subtitles] '"+str(transcript[:50])+"..."+str(transcript[len(transcript)-50:])+"'")
 
-file = open('txt.txt', 'r')
-text = file.read()
-file.close()
-
-
 print("[ollama] loading Ollama")
 try:
     ollama.list()
