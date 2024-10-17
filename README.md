@@ -10,12 +10,27 @@ Automate watching, transcribing, summarizing, and writing an essay on a topic fr
 2. Navigate to the project directory:
    ```bash
    cd auto-youtube-essay-writer
-      
-3. OPTIONAL: create a venv:
+2. ![Install Ollama](https://ollama.com/download):
+   Linux:
+   ```bash
+   curl -fsSL https://ollama.com/install.sh | sh
+   ```
+   MacOS ([brew](https://brew.sh/)):
+   ```bash
+   brew install ollama
+   ```
+   MacOS (Zip):
+   ```bash
+   curl -O 'https://ollama.com/download/Ollama-darwin.zip'
+   ```
+   Windows:
+   (Follow instructions on Ollama.com)[https://ollama.com/download/windows]  
+
+4. OPTIONAL: create a venv:
    ```bash
    python3 -m venv venv; source venv/bin/activate
 
-4. Install the required packages:
+5. Install the required packages:
    ```bash
    pip install -r requirements.txt
 
