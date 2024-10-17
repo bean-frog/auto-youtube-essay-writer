@@ -11,11 +11,11 @@ Automate watching, transcribing, summarizing, and writing an essay on a topic fr
    ```bash
    cd auto-youtube-essay-writer
       
-3. Install the required packages:
-   OPTIONAL: create a venv
+3. OPTIONAL: create a venv:
    ```bash
    python3 -m venv venv; source venv/bin/activate
-   ```
+
+4. Install the required packages:
    ```bash
    pip install -r requirements.txt
 
@@ -25,7 +25,7 @@ Automate watching, transcribing, summarizing, and writing an essay on a topic fr
    python run.py [youtube url]
 
 ## Example
-
+![example usage](https://github.com/gladly-hyphenated-21/auto-youtube-essay-writer/blob/main/image.png)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
