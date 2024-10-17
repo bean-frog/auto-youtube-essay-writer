@@ -23,7 +23,7 @@ Automate watching, transcribing, summarizing, and writing an essay on a topic fr
       curl -O 'https://ollama.com/download/Ollama-darwin.zip'
       ```
       Windows:
-      >(Follow instructions on Ollama.com)[https://ollama.com/download/windows]  
+      >[Follow instructions on Ollama.com](https://ollama.com/download/windows) 
 
 4. OPTIONAL: create a venv:
    ```bash
