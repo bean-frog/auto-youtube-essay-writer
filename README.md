@@ -15,7 +15,7 @@ Automate watching, transcribing, summarizing, and writing an essay on a topic fr
    OPTIONAL: create a venv
    ```bash
    python3 -m venv venv; source venv/bin/activate
-
+   ```
    ```bash
    pip install -r requirements.txt
 
