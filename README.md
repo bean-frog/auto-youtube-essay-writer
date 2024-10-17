@@ -19,7 +19,6 @@ Automate watching, transcribing, summarizing, and writing an essay on a topic fr
    ```bash
    python run.py [youtube url]
 
-
 ## Example
 >
 >
