@@ -23,7 +23,7 @@ Automate watching, transcribing, summarizing, and writing an essay on a topic fr
       curl -O 'https://ollama.com/download/Ollama-darwin.zip'
       ```
       Windows:
-      >[Follow instructions on Ollama.com](https://ollama.com/download/windows) 
+      [Follow instructions on Ollama.com](https://ollama.com/download/windows) 
 
 4. OPTIONAL: create a venv:
    ```bash
@@ -42,4 +42,4 @@ Automate watching, transcribing, summarizing, and writing an essay on a topic fr
 ![example usage](https://github.com/gladly-hyphenated-21/auto-youtube-essay-writer/blob/main/image.png)
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/gladly-hyphenated-21/auto-youtube-essay-writer/blob/main/LICENSE) file for details.
