@@ -4,12 +4,10 @@ Automate watching, transcribing, summarizing, and writing an essay on a topic fr
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository
    ```bash
-   git clone https://github.com/gladly-hyphenated-21/auto-youtube-essay-writer.git
-2. Navigate to the project directory:
-   ```bash
-   cd auto-youtube-essay-writer
+   git clone https://github.com/gladly-hyphenated-21/auto-youtube-essay-writer.git; cd auto-youtube-essay-writer
+
 2. [Install Ollama](https://ollama.com/download):
 
       Linux:
