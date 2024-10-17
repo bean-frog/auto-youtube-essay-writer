@@ -10,7 +10,12 @@ Automate watching, transcribing, summarizing, and writing an essay on a topic fr
 2. Navigate to the project directory:
    ```bash
    cd auto-youtube-essay-writer
+      
 3. Install the required packages:
+   OPTIONAL: create a venv
+   ```bash
+   python3 -m venv venv; source venv/bin/activate
+
    ```bash
    pip install -r requirements.txt
 
