@@ -16,3 +16,5 @@ urllib3>=2.2.3
 websockets>=13.1
 webvtt-py>=0.5.1
 yt-dlp>=2024.10.7
+pycairo>=1.27.0
+pygobject>=3.50.0
