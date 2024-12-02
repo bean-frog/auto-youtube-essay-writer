@@ -149,8 +149,8 @@ class Window(Gtk.Window):
         else:
             print("[ollama] prompting Ollama again...")
 
-            prompt2 = data["eli5"] if self.response_type.lower() == "explain like i'm 5" else \
-          data["essay"] if self.response_type.lower() == "essay" else None
+            prompt2 = prompts["eli5"] if self.response_type.lower() == "explain like i'm 5" else \
+          prompts["essay"] if self.response_type.lower() == "essay" else None
 
             response2 = prompt_ollama(str(prompt2 + response))
             print("[ollama] Done!")
